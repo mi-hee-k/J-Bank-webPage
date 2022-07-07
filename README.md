@@ -15,4 +15,4 @@
 <br />
 
 ## 3. 핵심기능 
-
+>html 과 css, jQuery의 Slick slider를 이용하여 은행 웹페이지를 만들었습니다. 
