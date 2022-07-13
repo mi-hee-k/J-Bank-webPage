@@ -1,5 +1,5 @@
 # :pushpin: J-Bank WebPage
->J-Bank 웹 페이지
+>J-Bank 반응형 웹 페이지
 ><img src="https://user-images.githubusercontent.com/90510192/178151997-457e924b-3da5-43fd-9089-d93180bf947e.png"> 
 >
 <br />
@@ -15,4 +15,4 @@
 <br />
 
 ## 3. 핵심기능 
->html 과 css, jQuery의 Slick slider를 이용하여 은행 웹페이지를 만들었습니다. 
+>html 과 css, jQuery의 Slick slider를 이용하여 반응형 웹페이지를 만들었습니다. 
